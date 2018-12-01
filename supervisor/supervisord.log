@@ -1,0 +1,246 @@
+2018-09-20 11:12:06,030 CRIT Supervisor running as root (no user in config file)
+2018-09-20 11:12:06,030 WARN Included extra file "/supervisor/supervisor.d/message.conf" during parsing
+2018-09-20 11:12:06,164 INFO RPC interface 'supervisor' initialized
+2018-09-20 11:12:06,164 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-09-20 11:12:06,165 INFO RPC interface 'supervisor' initialized
+2018-09-20 11:12:06,165 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-09-20 11:12:06,167 INFO daemonizing the supervisord process
+2018-09-20 11:12:06,167 INFO supervisord started with pid 131
+2018-09-20 11:12:07,171 INFO spawned: 'wechat' with pid 132
+2018-09-20 11:12:12,178 INFO success: wechat entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2018-09-21 08:45:12,783 CRIT Supervisor running as root (no user in config file)
+2018-09-21 08:45:12,795 WARN Included extra file "/supervisor/supervisor.d/message.conf" during parsing
+2018-09-21 08:45:12,897 INFO RPC interface 'supervisor' initialized
+2018-09-21 08:45:12,897 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-09-21 08:45:12,898 INFO RPC interface 'supervisor' initialized
+2018-09-21 08:45:12,898 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-09-21 08:45:12,900 INFO daemonizing the supervisord process
+2018-09-21 08:45:12,900 INFO supervisord started with pid 160
+2018-09-21 08:45:13,904 INFO spawned: 'wechat' with pid 161
+2018-09-21 08:45:18,911 INFO success: wechat entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2018-09-25 02:23:38,741 CRIT Supervisor running as root (no user in config file)
+2018-09-25 02:23:38,741 WARN Included extra file "/supervisor/supervisor.d/message.conf" during parsing
+2018-09-25 02:23:38,758 INFO RPC interface 'supervisor' initialized
+2018-09-25 02:23:38,758 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-09-25 02:23:39,061 INFO RPC interface 'supervisor' initialized
+2018-09-25 02:23:39,061 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-09-25 02:23:39,062 INFO daemonizing the supervisord process
+2018-09-25 02:23:39,063 INFO supervisord started with pid 215
+2018-09-25 02:23:40,067 INFO spawned: 'wechat' with pid 216
+2018-09-25 02:23:45,074 INFO success: wechat entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2018-10-09 02:26:58,677 CRIT Supervisor running as root (no user in config file)
+2018-10-09 02:26:58,677 WARN Included extra file "/supervisor/supervisor.d/message.conf" during parsing
+2018-10-09 02:26:58,678 WARN Included extra file "/supervisor/supervisor.d/wechat.conf" during parsing
+2018-10-09 02:27:20,633 WARN received SIGTERM indicating exit request
+2018-10-09 02:27:20,856 INFO waiting for wechat to die
+2018-10-09 02:27:21,055 INFO stopped: wechat (terminated by SIGTERM)
+2018-10-09 02:27:22,829 CRIT Supervisor running as root (no user in config file)
+2018-10-09 02:27:22,829 WARN Included extra file "/supervisor/supervisor.d/message.conf" during parsing
+2018-10-09 02:27:22,829 WARN Included extra file "/supervisor/supervisor.d/wechat.conf" during parsing
+2018-10-09 02:27:22,908 INFO RPC interface 'supervisor' initialized
+2018-10-09 02:27:22,909 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-10-09 02:27:22,909 INFO RPC interface 'supervisor' initialized
+2018-10-09 02:27:22,909 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-10-09 02:27:22,911 INFO daemonizing the supervisord process
+2018-10-09 02:27:22,912 INFO supervisord started with pid 1554
+2018-10-09 02:27:23,916 INFO spawned: 'wechat' with pid 1555
+2018-10-09 02:27:24,917 INFO exited: wechat (exit status 1; not expected)
+2018-10-09 02:27:25,921 INFO spawned: 'wechat' with pid 1562
+2018-10-09 02:27:26,719 INFO exited: wechat (exit status 1; not expected)
+2018-10-09 02:27:28,729 INFO spawned: 'wechat' with pid 1571
+2018-10-09 02:27:29,574 INFO exited: wechat (exit status 1; not expected)
+2018-10-09 02:27:32,581 INFO spawned: 'wechat' with pid 1578
+2018-10-09 02:27:33,399 INFO exited: wechat (exit status 1; not expected)
+2018-10-09 02:27:34,400 INFO gave up: wechat entered FATAL state, too many start retries too quickly
+2018-10-09 02:28:57,761 CRIT Supervisor running as root (no user in config file)
+2018-10-09 02:28:57,761 WARN Included extra file "/supervisor/supervisor.d/message.conf" during parsing
+2018-10-09 02:28:57,761 WARN Included extra file "/supervisor/supervisor.d/wechat.conf" during parsing
+2018-10-09 02:32:57,402 WARN received SIGTERM indicating exit request
+2018-10-09 02:34:24,322 CRIT Supervisor running as root (no user in config file)
+2018-10-09 02:34:24,322 WARN Included extra file "/supervisor/supervisor.d/wechat.conf" during parsing
+2018-10-09 02:34:24,335 INFO RPC interface 'supervisor' initialized
+2018-10-09 02:34:24,335 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-10-09 02:34:24,336 INFO RPC interface 'supervisor' initialized
+2018-10-09 02:34:24,336 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-10-09 02:34:24,337 INFO daemonizing the supervisord process
+2018-10-09 02:34:24,338 INFO supervisord started with pid 1606
+2018-10-09 02:34:25,342 INFO spawned: 'wechat' with pid 1607
+2018-10-09 02:34:26,143 INFO exited: wechat (exit status 1; not expected)
+2018-10-09 02:34:27,147 INFO spawned: 'wechat' with pid 1614
+2018-10-09 02:34:27,979 INFO exited: wechat (exit status 1; not expected)
+2018-10-09 02:34:29,987 INFO spawned: 'wechat' with pid 1621
+2018-10-09 02:34:30,987 INFO exited: wechat (exit status 1; not expected)
+2018-10-09 02:34:33,995 INFO spawned: 'wechat' with pid 1628
+2018-10-09 02:34:34,920 INFO exited: wechat (exit status 1; not expected)
+2018-10-09 02:34:35,924 INFO gave up: wechat entered FATAL state, too many start retries too quickly
+2018-10-09 02:37:52,075 WARN received SIGTERM indicating exit request
+2018-10-09 02:39:12,614 CRIT Supervisor running as root (no user in config file)
+2018-10-09 02:39:12,614 WARN Included extra file "/supervisor/supervisor.d/message.conf" during parsing
+2018-10-09 02:39:12,627 INFO RPC interface 'supervisor' initialized
+2018-10-09 02:39:12,627 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-10-09 02:39:12,628 INFO RPC interface 'supervisor' initialized
+2018-10-09 02:39:12,628 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-10-09 02:39:12,630 INFO daemonizing the supervisord process
+2018-10-09 02:39:12,630 INFO supervisord started with pid 1676
+2018-10-09 02:39:13,635 INFO spawned: 'wechat' with pid 1677
+2018-10-09 02:39:18,646 INFO success: wechat entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2018-10-09 02:40:20,224 WARN received SIGTERM indicating exit request
+2018-10-09 02:40:20,224 INFO waiting for wechat to die
+2018-10-09 02:40:20,227 INFO stopped: wechat (terminated by SIGTERM)
+2018-10-09 02:45:48,946 CRIT Supervisor running as root (no user in config file)
+2018-10-09 02:45:48,946 WARN Included extra file "/supervisor/supervisor.d/message.conf" during parsing
+2018-10-09 02:45:48,960 INFO RPC interface 'supervisor' initialized
+2018-10-09 02:45:48,960 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-10-09 02:45:48,961 INFO RPC interface 'supervisor' initialized
+2018-10-09 02:45:48,961 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-10-09 02:45:48,963 INFO daemonizing the supervisord process
+2018-10-09 02:45:48,963 INFO supervisord started with pid 1702
+2018-10-09 02:45:49,968 INFO spawned: 'wechat' with pid 1703
+2018-10-09 02:45:54,981 INFO success: wechat entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2018-10-09 02:47:30,229 WARN received SIGTERM indicating exit request
+2018-10-09 02:47:30,229 INFO waiting for wechat to die
+2018-10-09 02:47:30,233 INFO stopped: wechat (terminated by SIGTERM)
+2018-10-09 02:49:04,900 CRIT Supervisor running as root (no user in config file)
+2018-10-09 02:49:04,900 WARN Included extra file "/supervisor/supervisor.d/message.conf" during parsing
+2018-10-09 02:49:04,913 INFO RPC interface 'supervisor' initialized
+2018-10-09 02:49:04,913 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-10-09 02:49:04,914 INFO RPC interface 'supervisor' initialized
+2018-10-09 02:49:04,914 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-10-09 02:49:04,915 INFO daemonizing the supervisord process
+2018-10-09 02:49:04,916 INFO supervisord started with pid 1720
+2018-10-09 02:49:05,920 INFO spawned: 'wechat' with pid 1721
+2018-10-09 02:49:10,930 INFO success: wechat entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2018-10-09 02:51:42,174 WARN received SIGTERM indicating exit request
+2018-10-09 02:51:42,174 INFO waiting for wechat to die
+2018-10-09 02:51:42,177 INFO stopped: wechat (terminated by SIGTERM)
+2018-10-09 02:51:59,597 CRIT Supervisor running as root (no user in config file)
+2018-10-09 02:51:59,597 WARN Included extra file "/supervisor/supervisor.d/message.conf" during parsing
+2018-10-09 02:51:59,597 WARN Included extra file "/supervisor/supervisor.d/wechat.conf" during parsing
+2018-10-09 02:51:59,610 INFO RPC interface 'supervisor' initialized
+2018-10-09 02:51:59,611 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-10-09 02:51:59,611 INFO RPC interface 'supervisor' initialized
+2018-10-09 02:51:59,611 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-10-09 02:51:59,613 INFO daemonizing the supervisord process
+2018-10-09 02:51:59,613 INFO supervisord started with pid 1740
+2018-10-09 02:52:00,618 INFO spawned: 'wechat' with pid 1741
+2018-10-09 02:52:05,632 INFO success: wechat entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2018-10-09 02:54:13,019 WARN received SIGTERM indicating exit request
+2018-10-09 02:54:13,019 INFO waiting for wechat to die
+2018-10-09 02:54:13,023 INFO stopped: wechat (terminated by SIGTERM)
+2018-10-09 02:54:39,277 CRIT Supervisor running as root (no user in config file)
+2018-10-09 02:54:39,277 WARN Included extra file "/supervisor/supervisor.d/message.conf" during parsing
+2018-10-09 02:54:39,291 INFO RPC interface 'supervisor' initialized
+2018-10-09 02:54:39,291 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-10-09 02:54:39,292 INFO RPC interface 'supervisor' initialized
+2018-10-09 02:54:39,292 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-10-09 02:54:39,293 INFO daemonizing the supervisord process
+2018-10-09 02:54:39,294 INFO supervisord started with pid 1761
+2018-10-09 02:54:40,298 INFO spawned: 'wechat' with pid 1762
+2018-10-09 02:54:45,315 INFO success: wechat entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2018-10-09 03:01:40,369 WARN received SIGTERM indicating exit request
+2018-10-09 03:01:40,369 INFO waiting for wechat to die
+2018-10-09 03:01:40,372 INFO stopped: wechat (terminated by SIGTERM)
+2018-10-09 03:01:55,009 CRIT Supervisor running as root (no user in config file)
+2018-10-09 03:01:55,009 WARN Included extra file "/supervisor/supervisor.d/message.conf" during parsing
+2018-10-09 03:01:55,009 WARN Included extra file "/supervisor/supervisor.d/wechat.conf" during parsing
+2018-10-09 03:01:55,023 INFO RPC interface 'supervisor' initialized
+2018-10-09 03:01:55,023 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-10-09 03:01:55,024 INFO RPC interface 'supervisor' initialized
+2018-10-09 03:01:55,024 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-10-09 03:01:55,025 INFO daemonizing the supervisord process
+2018-10-09 03:01:55,026 INFO supervisord started with pid 1786
+2018-10-09 03:01:56,030 INFO spawned: 'message' with pid 1787
+2018-10-09 03:01:56,033 INFO spawned: 'wechat' with pid 1788
+2018-10-09 03:02:01,045 INFO success: message entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2018-10-09 03:02:01,045 INFO success: wechat entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2018-11-20 10:01:55,715 CRIT Supervisor running as root (no user in config file)
+2018-11-20 10:01:55,730 WARN Included extra file "/supervisor/supervisor.d/message.conf" during parsing
+2018-11-20 10:01:55,730 WARN Included extra file "/supervisor/supervisor.d/wechat.conf" during parsing
+2018-11-20 10:01:55,810 INFO RPC interface 'supervisor' initialized
+2018-11-20 10:01:55,810 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-11-20 10:01:56,112 INFO RPC interface 'supervisor' initialized
+2018-11-20 10:01:56,113 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-11-20 10:01:56,114 INFO daemonizing the supervisord process
+2018-11-20 10:01:56,115 INFO supervisord started with pid 149
+2018-11-20 10:01:57,120 INFO spawned: 'message' with pid 150
+2018-11-20 10:01:57,123 INFO spawned: 'wechat' with pid 151
+2018-11-20 10:02:02,139 INFO success: message entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2018-11-20 10:02:02,139 INFO success: wechat entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2018-11-22 07:33:04,949 CRIT Supervisor running as root (no user in config file)
+2018-11-22 07:33:04,949 WARN Included extra file "/supervisor/supervisor.d/message.conf" during parsing
+2018-11-22 07:33:04,949 WARN Included extra file "/supervisor/supervisor.d/wechat.conf" during parsing
+2018-11-22 07:33:04,965 INFO RPC interface 'supervisor' initialized
+2018-11-22 07:33:04,965 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-11-22 07:33:05,266 INFO RPC interface 'supervisor' initialized
+2018-11-22 07:33:05,266 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-11-22 07:33:05,268 INFO daemonizing the supervisord process
+2018-11-22 07:33:05,269 INFO supervisord started with pid 137
+2018-11-22 07:33:06,273 INFO spawned: 'message' with pid 138
+2018-11-22 07:33:06,276 INFO spawned: 'wechat' with pid 139
+2018-11-22 07:33:11,286 INFO success: message entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2018-11-22 07:33:11,286 INFO success: wechat entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2018-11-23 09:32:27,880 CRIT Supervisor running as root (no user in config file)
+2018-11-23 09:32:27,880 WARN Included extra file "/supervisor/supervisor.d/message.conf" during parsing
+2018-11-23 09:32:27,880 WARN Included extra file "/supervisor/supervisor.d/wechat.conf" during parsing
+2018-11-23 09:32:27,895 INFO RPC interface 'supervisor' initialized
+2018-11-23 09:32:27,895 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-11-23 09:32:28,197 INFO RPC interface 'supervisor' initialized
+2018-11-23 09:32:28,197 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-11-23 09:32:28,200 INFO daemonizing the supervisord process
+2018-11-23 09:32:28,201 INFO supervisord started with pid 110
+2018-11-23 09:32:29,206 INFO spawned: 'message' with pid 111
+2018-11-23 09:32:29,209 INFO spawned: 'wechat' with pid 112
+2018-11-23 09:32:34,217 INFO success: message entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2018-11-23 09:32:34,217 INFO success: wechat entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2018-11-26 02:30:12,477 CRIT Supervisor running as root (no user in config file)
+2018-11-26 02:30:12,477 WARN Included extra file "/supervisor/supervisor.d/message.conf" during parsing
+2018-11-26 02:30:12,477 WARN Included extra file "/supervisor/supervisor.d/wechat.conf" during parsing
+2018-11-26 02:30:12,565 INFO RPC interface 'supervisor' initialized
+2018-11-26 02:30:12,565 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-11-26 02:30:12,867 INFO RPC interface 'supervisor' initialized
+2018-11-26 02:30:12,867 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-11-26 02:30:12,869 INFO daemonizing the supervisord process
+2018-11-26 02:30:12,870 INFO supervisord started with pid 104
+2018-11-26 02:30:13,873 INFO spawned: 'message' with pid 105
+2018-11-26 02:30:13,876 INFO spawned: 'wechat' with pid 106
+2018-11-26 02:30:18,882 INFO success: message entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2018-11-26 02:30:18,883 INFO success: wechat entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2018-11-27 11:22:01,763 CRIT Supervisor running as root (no user in config file)
+2018-11-27 11:22:01,763 WARN Included extra file "/supervisor/supervisor.d/message.conf" during parsing
+2018-11-27 11:22:01,763 WARN Included extra file "/supervisor/supervisor.d/wechat.conf" during parsing
+2018-11-27 11:22:01,776 INFO RPC interface 'supervisor' initialized
+2018-11-27 11:22:01,777 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-11-27 11:22:02,078 INFO RPC interface 'supervisor' initialized
+2018-11-27 11:22:02,078 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-11-27 11:22:02,080 INFO daemonizing the supervisord process
+2018-11-27 11:22:02,081 INFO supervisord started with pid 110
+2018-11-27 11:22:03,085 INFO spawned: 'message' with pid 111
+2018-11-27 11:22:03,088 INFO spawned: 'wechat' with pid 112
+2018-11-27 11:22:08,095 INFO success: message entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2018-11-27 11:22:08,096 INFO success: wechat entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2018-11-28 02:46:35,837 CRIT Supervisor running as root (no user in config file)
+2018-11-28 02:46:35,837 WARN Included extra file "/supervisor/supervisor.d/message.conf" during parsing
+2018-11-28 02:46:35,837 WARN Included extra file "/supervisor/supervisor.d/wechat.conf" during parsing
+2018-11-28 02:46:35,850 INFO RPC interface 'supervisor' initialized
+2018-11-28 02:46:35,850 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-11-28 02:46:36,151 INFO RPC interface 'supervisor' initialized
+2018-11-28 02:46:36,152 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-11-28 02:46:36,153 INFO daemonizing the supervisord process
+2018-11-28 02:46:36,154 INFO supervisord started with pid 104
+2018-11-28 02:46:37,158 INFO spawned: 'message' with pid 105
+2018-11-28 02:46:37,160 INFO spawned: 'wechat' with pid 106
+2018-11-28 02:46:42,170 INFO success: message entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2018-11-28 02:46:42,170 INFO success: wechat entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2018-11-28 06:22:32,764 CRIT Supervisor running as root (no user in config file)
+2018-11-28 06:22:32,764 WARN Included extra file "/supervisor/supervisor.d/message.conf" during parsing
+2018-11-28 06:22:32,764 WARN Included extra file "/supervisor/supervisor.d/wechat.conf" during parsing
+2018-11-28 06:22:32,776 INFO RPC interface 'supervisor' initialized
+2018-11-28 06:22:32,777 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2018-11-28 06:22:33,078 INFO RPC interface 'supervisor' initialized
+2018-11-28 06:22:33,078 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-11-28 06:22:33,080 INFO daemonizing the supervisord process
+2018-11-28 06:22:33,080 INFO supervisord started with pid 104
+2018-11-28 06:22:34,084 INFO spawned: 'message' with pid 105
+2018-11-28 06:22:34,087 INFO spawned: 'wechat' with pid 106
+2018-11-28 06:22:39,096 INFO success: message entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2018-11-28 06:22:39,097 INFO success: wechat entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
