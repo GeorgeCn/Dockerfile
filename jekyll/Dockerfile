@@ -4,7 +4,7 @@ MAINTAINER George "18151162206@163.com"
 ENV REFRESHED_AT 2018-12-03
 
 RUN apt-get -yqq update
-RNU apt-get -yqq install ruby ruby-dev make nodejs
+RUN apt-get -yqq install ruby ruby-dev build-essential nodejs
 RUN gem install --no-rdoc --no-ri jekyll -v 2.5.3
 
 VOLUME /data
